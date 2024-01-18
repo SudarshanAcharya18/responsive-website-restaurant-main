@@ -379,6 +379,15 @@ img{
   padding-bottom: 1.5rem;
 }
 
+.parent {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 6px;
+  align-items: center;
+  justify-content: center;
+  }
 
 /*========== FOOTER ==========*/
 .footer__container{
