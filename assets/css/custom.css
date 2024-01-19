@@ -966,7 +966,7 @@ header {
     max-width: 270px;
 }
 
-.section-title,
+/* .section-title,
 .pagination {
     margin: 14px 0 34px;
     line-height: 42px;
@@ -977,9 +977,9 @@ header {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px;
-}
+} */
 
-.section-title:before,
+/* .section-title:before,
 .pagination:before {
     content: "";
     position: absolute;
@@ -991,9 +991,9 @@ header {
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     border-radius: 6px;
-}
+} */
 
-.section-title:after,
+/* .section-title:after,
 .pagination:after {
     content: "";
     position: absolute;
@@ -1002,7 +1002,7 @@ header {
     width: 29px;
     height: 2px;
     background-color: #cf9b67;
-}
+} */
 
 .section-suptitle {
     font-size: 45px;
@@ -2312,7 +2312,7 @@ footer .dark_bg {
     font-size: 15px;
     line-height: 24px;
     margin-bottom: 5px;
-    text-shadow: 0 0 2px #C5C5C5;
+    /* text-shadow: 0 0 2px #C5C5C5; */
     color: var(--text-color);
     font-weight: 400;
 }
