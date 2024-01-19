@@ -105,3 +105,7 @@ sr.reveal(`.home__data, .home__img,
             .footer__content`, {
     interval: 50
 })
+
+sr.reveal(`.clearfix`,{
+    interval: 5;
+})
