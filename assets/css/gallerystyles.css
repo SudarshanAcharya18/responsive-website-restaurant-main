@@ -437,7 +437,8 @@ img{
   .app__container{
     grid-template-columns: repeat(2,1fr);
     align-items: center;
-    
+    row-gap: 0.5rem;
+    column-gap: 0.5rem;
   }
 
   .about__data, .about__initial,
@@ -500,7 +501,7 @@ img{
   }
 
   .menu__container{
-    grid-template-columns: repeat(3, 210px);
+    grid-template-columns: repeat(3, 220px);
     column-gap: 3rem;
     row-gap: 2rem;
   }
