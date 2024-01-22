@@ -300,10 +300,10 @@ img{
   text-align: center;
 }
 
-.about__description{
+/* .about__description{
   margin-bottom: var(--mb-3);
-  text-align: justify;
-}
+  text-align: initial;
+} */
 
 .about__img{
   width: 280px;
